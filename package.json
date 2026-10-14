@@ -1,0 +1,27 @@
+{
+  "name": "persec2026-web-dev-interview-jiranat",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/51N74/persec2026-Web-dev-interview-jiranat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/51N74/persec2026-Web-dev-interview-jiranat/issues"
+  },
+  "homepage": "https://github.com/51N74/persec2026-Web-dev-interview-jiranat#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.4"
+  }
+}
